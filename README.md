@@ -74,14 +74,3 @@
 ### 📈 Top Languages
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidullahbjunaid&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
-
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/abidullahbjunaid/android-kotlin-clean-architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abidullahbjunaid&repo=android-kotlin-clean-architecture&theme=algolia" />
-</a>
-<a href="https://github.com/abidullahbjunaid/jetpack-compose-sample">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abidullahbjunaid&repo=jetpack-compose-sample&theme=algolia" />
-</a>
