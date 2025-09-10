@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+ABIDULLAH+BIN+JUNAID;Senior+Mobile+Developer📱;Let’s+Build+Something+Awesome!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+ABIDULLAH+BIN+JUNAID;Senior+Android+Developer+💻;Kotlin+Enthusiast+🚀;Let’s+Build+Better+Apps!&center=true&size=30">
   </a>
 </h1>
 
@@ -12,12 +12,12 @@
 
 ### 👨‍💻 About Me
 
-- 📱 Crafting seamless Mobile Apps with **Flutter, React Native & Native (Kotlin/Swift)**  
-- 🚀 7+ years experience building **scalable, high-performance** apps  
-- 💡 Passionate about **UX/UI design, performance optimization, and clean code**  
-- ☁️ Skilled in **Cloud Integration (Firebase, AWS, Azure)**  
-- 🛠 Mentor & Tech Lead — love sharing knowledge with teams  
-- 🤯 Fun Fact: My coffee turns into mobile features ☕➡️📲  
+- 📱 Specialized in **Android Development (Kotlin + Jetpack + Clean Architecture)**  
+- 🚀 7+ years building **scalable, user-friendly mobile apps**  
+- 💡 Passionate about **Jetpack Compose, performance optimization & clean code**  
+- ☁️ Experienced with **Firebase, AWS, and Azure integration**  
+- 🛠 Mentor & Tech Lead — guiding teams to build high-quality Android apps  
+- 🤯 Fun Fact: My debug logs tell better stories than Netflix 📺😂  
 
 ---
 
@@ -32,28 +32,26 @@
 ### 🛠️ Tech Stack
 
 #### 📱 Mobile Frameworks
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose)
 
 #### 💻 Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 #### ☁️ Backend & Cloud
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
 
 #### 🧰 Dev Tools
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
@@ -79,9 +77,9 @@
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/abidullahbjunaid/flutter-ecommerce-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abidullahbjunaid&repo=flutter-ecommerce-app&theme=algolia" />
+<a href="https://github.com/abidullahbjunaid/android-kotlin-clean-architecture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abidullahbjunaid&repo=android-kotlin-clean-architecture&theme=algolia" />
 </a>
-<a href="https://github.com/abidullahbjunaid/react-native-chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abidullahbjunaid&repo=react-native-chat-app&theme=algolia" />
+<a href="https://github.com/abidullahbjunaid/jetpack-compose-sample">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abidullahbjunaid&repo=jetpack-compose-sample&theme=algolia" />
 </a>
