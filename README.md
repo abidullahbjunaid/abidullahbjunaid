@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+ABU+SAID;Senior+Mobile+Developer📱;Let’s+Build+Something+Awesome!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+ABIDULLAH+BIN+JUNAID;Senior+Mobile+Developer📱;Let’s+Build+Something+Awesome!&center=true&size=30">
   </a>
 </h1>
 
@@ -63,7 +63,7 @@
 ### 📊 My Github Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abidullahbjunaid&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abidullahbjunaid&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="ABIDULLAH BIN JUNAID's GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abidullahbjunaid&theme=algolia" alt="GitHub Streak" />
